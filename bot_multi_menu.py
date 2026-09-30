@@ -5,3 +5,4 @@ elif user_message == "Помощь" or user_message == "помощь":
     print("Связь с Никитой: @nikita_lead")
 else:
     print("Неизвестная команда.")
+    
